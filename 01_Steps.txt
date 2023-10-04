@@ -8,17 +8,12 @@
    Create Commits   
    >git add index.html
    (Stage changes for next commit)
-
-   Get status:
-   >git status
-
-   >git commmit -m "Initial commit"
+   >git commmit
    (Create a commit that includes all staged changes)
 
    Make changes in html...
 
    >git add index.html
-
    >git commit -m "Text for your changes"
 
    Let op! git checkout master (to the last commit!!!)
