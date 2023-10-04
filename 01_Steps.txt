@@ -22,4 +22,9 @@
    ? How to Undo commits?
    1. Git log to see the changes and commits
    2. >git revert [git-commit-id]
+
+   Want to Undo commits to ....?
+   After delete you cannot roll back!!!
+   >git reset --hard [commit-id]
+
    
