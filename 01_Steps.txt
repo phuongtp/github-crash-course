@@ -18,4 +18,8 @@
    Make changes in html...
 
    >git add index.html
+
+   >git commit -m "Text for your changes"
+
+   Let op! git checkout master (to the last commit!!!)
    
