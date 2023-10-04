@@ -1,0 +1,13 @@
+
+1. Create a Git Repositoiry
+   a. one folder per project
+   
+   Step 01
+   >git init
+
+   Create Commits   
+   >git add index.html
+   (Stage changes for next commit)
+   >git commmit
+   (Create a commit that includes all staged changes)
+   
