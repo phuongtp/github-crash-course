@@ -8,6 +8,14 @@
    Create Commits   
    >git add index.html
    (Stage changes for next commit)
-   >git commmit
+
+   Get status:
+   >git status
+
+   >git commmit -m "Initial commit"
    (Create a commit that includes all staged changes)
+
+   Make changes in html...
+
+   >git add index.html
    
