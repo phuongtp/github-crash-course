@@ -22,4 +22,9 @@
    >git commit -m "Text for your changes"
 
    Let op! git checkout master (to the last commit!!!)
+
+
+   ? How to Undo commits?
+   1. Git log to see the changes and commits
+   2. >git revert [git-commit-id]
    
