@@ -1,2 +1,2 @@
-# github-crash-course
-Udemy GithubAction Lession
+# Important Instruction
+This is a demo repository practicing Git & GitHub.
